@@ -1,5 +1,4 @@
-# Blockchain-and-Schools
-### Using the Blockchain to Improve Schools
+# Improving Schools with Technology
 
 This repository aims to improve the quality of education in schools by integrating the following technologies:
 * Blockchain
@@ -21,4 +20,6 @@ As we have seen with Bitcoin, Ethereum, Cryptokitties, and other applications em
 In the case of a mobile application, students could install a mobile app to their smartphones that would provide teacher-assigned flashcards for homework. For a foreign language class, the app can require the students to provide the foreign language word equivalent to the mother tongue; also it could use speech-to-text to make sure that students are pronouncing words correctly. For math and science, flashcards can be used to reinforce problem solving.
 
 ##### Big Data & Machine Learning Analytics
-Schools can use this platform to better track how students are performing in subject areas and can identify areas of improvement. This integrates nicely with the standardized learning requirements of public schools. Schools can store profiles of students 
+Schools can use this platform to better track how students are performing in subject areas and can identify areas of improvement. This integrates nicely with the standardized learning requirements of public schools. Math teachers can track areas where students are excelling and lagging behind by tracking students answers. For example, Student A misses more calculus integration questions than calculus derivative questions, and the student's teacher can tailor lectures and questions to improve this deficiency. This effect will bring education to a more personal level.
+
+Additional areas of concern could be in students' dietary preferences. If students are ordering more chicken nuggets across the board while ordering less lasagna, the school can modify their spending budget accordingly. 
