@@ -1,9 +1,7 @@
 # Improving Schools with Technology
 
 This repository aims to improve the quality of education in schools by integrating the following technologies:
-* Blockchain
-* Smart contracts
-* Social media
+* Blockchain & Smart contracts
 * Big Data & Distributed computing
 * Mobile apps
 * Machine Learning & Analytics
