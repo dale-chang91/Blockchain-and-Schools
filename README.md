@@ -1,4 +1,5 @@
 # Improving Schools with Technology
+## Make America Smart Again
 
 This repository aims to improve the quality of education in schools by integrating the following technologies:
 * Blockchain & Smart contracts
